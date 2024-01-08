@@ -77,6 +77,6 @@ def main(page: ft.Page):
             page.update()
 
 
-# ft.app(target=main)
+ft.app(target=main)
 # ウェブアプリの場合
-ft.app(target=main, view=ft.WEB_BROWSER)
+# ft.app(target=main, view=ft.WEB_BROWSER)
