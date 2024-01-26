@@ -18,4 +18,14 @@
 * Copilotもメチャクチャなコードしか書けない
 * 完全にWebになるけど、画像ビューワーはStreamlitで書くのが良さそう
 * Fletは新しすぎて、Copilotを使うのがしんどいし、ネットの情報も少ない。
-* 
+
+## 
+* image-viewer.py として作成進める
+  * ファイル名の取得
+    * [公式を参考](https://flet.dev/docs/guides/python/file-picker-and-uploads/)
+  * 画像の表示
+  * 拡縮
+  * ヒストグラム表示
+  * RGB分解
+  * プロファイル（座標のピック）
+  * 差分
